@@ -1,4 +1,4 @@
 #include<stdio>
 main(){
-printf("hello world");
+printf("I love zhuo.");
 }
